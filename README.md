@@ -1,2 +1,0 @@
-# Mitun-GAmeg
-rocket
